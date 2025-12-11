@@ -17,7 +17,7 @@
 
 
 [![Language: Assembly](https://img.shields.io/badge/Language-Assembly-blueviolet)](https://en.wikipedia.org/wiki/Assembly_language)
-[![Status: Early Prototype](https://img.shields.io/badge/Status-Early_Prototype-red)](https://github.com/YourUsername/LuneOS)
+[![Status: Early Prototype](https://img.shields.io/badge/Status-Early_Prototype-red)](https://github.com/lun3ux/LuneOS)
 [![Architecture: x86 (16-bit/32-bit)](https://img.shields.io/badge/Arch-x86-informational)]()
 
 ## 📝 Project Manifest
