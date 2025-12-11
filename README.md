@@ -1,3 +1,4 @@
+
 ```                                                           
   ,,                                                       
 `7MM                                                       
@@ -10,5 +11,36 @@
                                                            
 ```
 
-Open source OS, Currently in progress. 
-Started on 12/8/25
+**A sexy minmalistic, low-level kernel for x86 systems, crafted entirely in Assembly by an Engineer, not a programmer.**
+
+---
+
+
+[![Language: Assembly](https://img.shields.io/badge/Language-Assembly-blueviolet)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Status: Early Prototype](https://img.shields.io/badge/Status-Early_Prototype-red)](https://github.com/YourUsername/LuneOS)
+[![Architecture: x86 (16-bit/32-bit)](https://img.shields.io/badge/Arch-x86-informational)]()
+
+## 📝 Project Manifest
+LuneOS is my personal, educational endeavor to learn low level systems from the machine code up. The constraint of using pure **Assembly (ASM)** for the entire kernel forces me to absorb a deep understanding of CPU architecture, boot processes, and memory management.
+* **Update #1:** NULL
+
+* **Started:** December 8, 2025
+
+---
+
+## ⚙️ Implemented Features
+
+| Component | Functionality | Status |
+| :--- | :--- | :--- |
+| **Boot Sequence** | Transition from 16-bit Real Mode to 32-bit Protected Mode. | ✅ Complete |
+| **Kernel Entry** | Initialization of basic segmentation registers and stack. | ✅ Complete |
+| **Lopis Ipos** | Lopis Ipos | **In Progress** |
+| **Lopis Ipos** | Lopis Ipos | **Planned** |
+
+---
+
+## 💾 Core Specifications
+
+* **Goal:** IDK YOU CHOOSE LUNE
+* **Target Environment:** IDK YOU CHOOSE LUNE
+* **License:** IDK YOU CHOOSE LUNE
